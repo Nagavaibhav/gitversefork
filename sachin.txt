@@ -1,0 +1,16 @@
+git init
+git clone "http."
+git status
+git commit -m"MESSAGE"
+git push -u origin main
+git stash
+git push 
+git branch
+git branch -M main 
+git checkout -b sachin 
+git merge 
+git pull origin main 
+git config --global user.name "Username"
+git config --global user.email "Email"
+git config --list
+git remote -v
